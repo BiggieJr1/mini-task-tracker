@@ -19,7 +19,7 @@ Este README explica de qué trata el proyecto y los comandos más habituales par
 
 Si tu repo usa otro stack, reemplaza estas indicaciones por las correspondientes.
 
-## Instalación (ejemplo con Node.js / npm)
+## Instalación (Node.js / npm)
 1. Clonar el repositorio:
    git clone https://github.com/BiggieJr1/mini-task-tracker.git
 2. Entrar en el directorio:
@@ -56,7 +56,7 @@ Nota: verifica los scripts en package.json para confirmar los nombres exactos. A
   cat package.json
   (o abre package.json y revisa la sección "scripts")
 
-## Variables de entorno (ejemplo)
+## Variables de entorno 
 Si la aplicación necesita configuración, crea un archivo `.env` en la raíz con variables como estas:
 
 PORT=3000
