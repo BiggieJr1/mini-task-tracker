@@ -11,7 +11,7 @@ Este README explica de qué trata el proyecto y los comandos más habituales par
 - Listar tareas (todas, completadas, pendientes).
 - Estructura mínima para añadir persistencia (archivo/DB) y APIs o UI.
 
-## Requisitos (ejemplos)
+## Requisitos 
 - Git
 - Node.js >= 14 (si el proyecto es Node.js)
 - npm o yarn (según el proyecto)
